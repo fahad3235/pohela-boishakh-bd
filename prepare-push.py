@@ -40,8 +40,8 @@ def main():
     # Chunking: keep each push JSON under ~90KB.
     # Chunk A: shell + css + data + logic + gitignore. Chunk B: app + tests + docs.
     chunks = [
-        ('chunk-a', entries[:4] + [entries[9]], 'pohela-boishakh-bd factory run #443 (1/2): shell + css + data + logic'),
-        ('chunk-b', entries[4:9], 'pohela-boishakh-bd factory run #443 (2/2): app + tests + docs'),
+        ('chunk-a', entries[:4] + [entries[9]], 'pohela-boishakh-bd factory run #445 (1/2): shell + css + data + logic'),
+        ('chunk-b', entries[4:9], 'pohela-boishakh-bd factory run #445 (2/2): app + tests + docs'),
     ]
     for name, chunk_files, message in chunks:
         payload = {
