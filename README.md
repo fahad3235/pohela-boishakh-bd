@@ -2,7 +2,7 @@
 
 Offline bilingual (English / বাংলা) Pohela Boishakh guide and celebration planner for Bangladesh — a free, fully offline web app. Counts down to the Bengali New Year (14 April), explains the day's traditions, and helps you plan your celebration: a day plan, a preparation checklist, a Boishakhi food menu, and greeting cards to copy and send.
 
-Factory run **#446** (15:00 slot, 2026-11-25).
+Factory run **#445** (15:00 slot, 2026-11-25).
 
 ## Problem
 
